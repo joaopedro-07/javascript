@@ -3,12 +3,12 @@ var  cor = "amarelo"
 
 switch (cor) {
     case "verde":
-        alert("Siga!");
-        break;
+        alert("Siga!")
+        break
     case "vermelho":
-        alert("Pare!");
-        break;
+        alert("Pare!")
+        break
     case "amarelo":
-        alert("Atenção!");
-        break;
+        alert("Atenção!")
+        break
 }

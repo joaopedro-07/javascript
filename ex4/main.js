@@ -1,2 +1,2 @@
 //João Pedro da Cunha Machado
-document.write("<p>Publicado em: 14/08/2024</p>");
+document.write("<p>Publicado em: 15/08/2024</p>");
